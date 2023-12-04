@@ -38,6 +38,10 @@ dependencies:
   google_maps_flutter: ^2.5.0
   geolocator: ^10.1.0
   geocoding: ^2.1.1
+  url_launcher: ^6.2.1
+  cached_network_image: ^3.3.0
+  rate_in_stars: ^0.0.3
+  http: ^1.1.2
 
 dev_dependencies:
   flutter_test:

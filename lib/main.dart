@@ -1,15 +1,20 @@
 import 'package:bavada_casino/routs/routs.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-
 
 // API ANDROID => AIzaSyASQFm43xKEo08vB3TzM1eit32AaiIDQto
 
+// DIRECTION KEY = "AIzaSyB8aJIlM_zaMkECxQwr23KPzCZeIYZvfVc";
 
 late Size size;
 
 void main() {
-  runApp(const MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
+      .then((_) {
+    runApp(const MyApp());
+  });
 }
 
 class MyApp extends StatelessWidget {
