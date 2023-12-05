@@ -34,12 +34,12 @@ class _LocationScreenState extends State<LocationScreen> {
     _controller.complete(controller);
   }
 
-  @override
-  void initState() {
-    final cont = Get.put(LocationController());
-    cont.getLocations();
-    super.initState();
-  }
+  // @override
+  // void initState() {
+  //   final cont = Get.put(LocationController());
+  //   cont.getLocations();
+  //   super.initState();
+  // }
 
   @override
   Widget build(BuildContext context) {
@@ -81,7 +81,7 @@ class _LocationScreenState extends State<LocationScreen> {
                               controller.lat.toDouble(),
                               controller.lng.toDouble(),
                             ),
-                            zoom: 9,
+                            zoom: 7,
                           ),
                         ),
                 ),
@@ -163,12 +163,12 @@ class _LocationScreenState extends State<LocationScreen> {
                                             ),
                                           ],
                                         ),
-                                        const Text(
-                                          "Casino",
-                                          style: TextStyle(
-                                              fontSize: 13,
-                                              fontWeight: FontWeight.bold),
-                                        ),
+                                        // const Text(
+                                        //   "Casino",
+                                        //   style: TextStyle(
+                                        //       fontSize: 13,
+                                        //       fontWeight: FontWeight.bold),
+                                        // ),
                                         Text(
                                           "${controller.location[index].address}",
                                           overflow: TextOverflow.ellipsis,

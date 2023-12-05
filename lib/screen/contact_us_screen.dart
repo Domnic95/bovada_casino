@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher_string.dart';
 
 class ContactUsScreen extends StatefulWidget {
-  const ContactUsScreen({super.key});
+  const ContactUsScreen({Key? key}) : super(key: key);
 
   @override
   State<ContactUsScreen> createState() => _ContactUsScreenState();
@@ -16,41 +15,65 @@ class _ContactUsScreenState extends State<ContactUsScreen> {
         appBar: AppBar(
           iconTheme: const IconThemeData(color: Colors.white),
           backgroundColor: const Color(0xff2E0327),
+          centerTitle: true,
           title: const Text(
             "Contact Us",
-            style: TextStyle(color: Colors.white),
+            style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),
           ),
-          centerTitle: true,
-          elevation: 0,
-          // backgroundColor: AppColors.backgroundColor,
         ),
-        body: SingleChildScrollView(
-          physics: const BouncingScrollPhysics(),
-          child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 30),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                const Text(
-                  "Contact Us",
-                  style: TextStyle(
-                    fontSize: 20,
-                    fontWeight: FontWeight.w500,
-                  ),
-                ),
-                const SizedBox(height: 20),
-                InkWell(
-                  onTap: () async {
-                    if (!await launchUrlString("bovada@help.com")) {
-                      throw Exception('Could not launch');
-                    }
-                  },
-                  child: const Text(
-                    "bovada@help.com",
-                  ),
-                ),
-              ],
-            ),
+        body: bodyData(),
+      ),
+    );
+  }
+
+  Widget bodyData() {
+    return Padding(
+      padding: const EdgeInsets.only(top: 20, left: 15, right: 15),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        // mainAxisAlignment: MainAxisAlignment.start,
+        children: [
+          listTileConst(
+              icon: Icons.email_sharp,
+              title: "Email us:",
+              subTitle: "help@bovadaltd.com"),
+          listTileConst(
+              icon: Icons.phone,
+              title: "Contact Us:",
+              subTitle: "(888) 263-0000"),
+          listTileConst(
+              icon: Icons.location_on,
+              title: "Address:",
+              subTitle: "12/A Kingfisher RoadMedino Washington, NY 10012, USA"),
+        ],
+      ),
+    );
+  }
+
+  Widget listTileConst({IconData? icon, title, subTitle}) {
+    return Padding(
+      padding: const EdgeInsets.only(top: 10),
+      child: Card(
+        child: ListTile(
+          leading: Padding(
+            padding: const EdgeInsets.only(top: 5),
+            child: Icon(icon),
+          ),
+          title: Text(
+            title,
+            style: const TextStyle(
+                // color: Appcolor.secondarycolor,
+                fontWeight: FontWeight.w500,
+                fontSize: 18,
+                wordSpacing: 1),
+          ),
+          subtitle: Text(
+            subTitle,
+            style: const TextStyle(
+                // color: Appcolor.primaryColor,
+                fontWeight: FontWeight.w700,
+                fontSize: 15,
+                wordSpacing: 1),
           ),
         ),
       ),

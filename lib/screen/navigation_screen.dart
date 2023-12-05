@@ -217,12 +217,12 @@ class _NavigationScreenState extends State<NavigationScreen> {
                                           ),
                                         ],
                                       ),
-                                      const Text(
-                                        "Casino",
-                                        style: TextStyle(
-                                            fontSize: 13,
-                                            fontWeight: FontWeight.bold),
-                                      ),
+                                      // const Text(
+                                      //   "Casino",
+                                      //   style: TextStyle(
+                                      //       fontSize: 13,
+                                      //       fontWeight: FontWeight.bold),
+                                      // ),
                                       Text(
                                         "${element.address}",
                                         overflow: TextOverflow.ellipsis,
@@ -348,11 +348,11 @@ class _NavigationScreenState extends State<NavigationScreen> {
                                 ),
                               ],
                             ),
-                            const Text(
-                              "Casino",
-                              style: TextStyle(
-                                  fontSize: 13, fontWeight: FontWeight.bold),
-                            ),
+                            // const Text(
+                            //   "Casino",
+                            //   style: TextStyle(
+                            //       fontSize: 13, fontWeight: FontWeight.bold),
+                            // ),
                             Text(
                               "${controller.address}",
                               overflow: TextOverflow.ellipsis,

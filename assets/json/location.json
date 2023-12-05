@@ -1,524 +1,616 @@
 {
-	"data":[
-		{	
-			"id":1,
-			"name": "Bovada Online Casino",  
-			"address": "idaho,USA",
-			"five_star_rating_published": 4.5,
-			"coordinates": [42.6635222,-118.6959897],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMBjHLSWOVSH_JLu8_kzxiBUCTys00TU3X_e-VE=w733-h240-k-no",
-			"status":"Open 24 hrs"
-		},
-		{	
-			"id":2,
-			"name": "Bovada Online Casino",  
+	"data": [
+		{
+			"id": 1,
+			"name": "Bovada Iowa",
 			"address": "Iowa, USA",
 			"five_star_rating_published": 5,
-			"coordinates": [42.570151, -93.780535],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPYdMjHxdnOPCsqoHBEzmetTAwa5_hfzIE01htf=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				42.570151,
+				-93.780535
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPYdMjHxdnOPCsqoHBEzmetTAwa5_hfzIE01htf=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-			{	
-			"id":3,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 2,
+			"name": "Bovada idaho",
+			"address": "idaho,USA",
+			"five_star_rating_published": 4.5,
+			"coordinates": [
+				42.6635222,
+				-118.6959897
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMBjHLSWOVSH_JLu8_kzxiBUCTys00TU3X_e-VE=w733-h240-k-no",
+			"status": "Open 24 hrs"
+		},
+		{
+			"id": 3,
+			"name": "Bovada Idaho",
 			"address": "Boise City Independent School District 1, ID, USA",
 			"five_star_rating_published": 5,
-			"coordinates": [34.8707507,-106.6809051],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMBjHLSWOVSH_JLu8_kzxiBUCTys00TU3X_e-VE=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				34.8707507,
+				-106.6809051
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMBjHLSWOVSH_JLu8_kzxiBUCTys00TU3X_e-VE=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":4,
-			"name": "Bovada Online Casino Boulder",  
+		{
+			"id": 4,
+			"name": "Bovada Boulder",
 			"address": "3348 28th St, Boulder, CO 80301, USA",
 			"five_star_rating_published": 4.8,
-			"coordinates": [40.0293099,-105.244741],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM-3jXDAju2yE6pU832as2WKO_tBPozbcWxEnmN=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				40.0293099,
+				-105.244741
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM-3jXDAju2yE6pU832as2WKO_tBPozbcWxEnmN=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":5,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 5,
+			"name": "Bovada La Jolla",
 			"address": "1248 Nauticus Cir, Virginia Beach, VA 23454, USA",
 			"five_star_rating_published": 4.5,
-			"coordinates": [36.7956695,-76.0173921],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMBjHLSWOVSH_JLu8_kzxiBUCTys00TU3X_e-VE=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				36.7956695,
+				-76.0173921
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMBjHLSWOVSH_JLu8_kzxiBUCTys00TU3X_e-VE=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":6,
-			"name": "Bovada - Online Casino",  
+		{
+			"id": 6,
+			"name": "Bovada Indianapolis",
 			"address": "1411-1499 E 11th St, Indianapolis, IN 46201, USA",
 			"five_star_rating_published": 5,
-			"coordinates": [39.7797845,-86.1375136],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPa-qVfFUmARojIC8hlVXiTd6CYjIsuFtw8pS_P=w408-h303-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				39.7797845,
+				-86.1375136
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPa-qVfFUmARojIC8hlVXiTd6CYjIsuFtw8pS_P=w408-h303-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":7,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 7,
+			"name": "Bovada Texas",
 			"address": "Custer Rd, Plano, TX 75023, USA",
 			"five_star_rating_published": 3.8,
-			"coordinates": [33.061262,-96.741389],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM-3jXDAju2yE6pU832as2WKO_tBPozbcWxEnmN=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				33.061262,
+				-96.741389
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM-3jXDAju2yE6pU832as2WKO_tBPozbcWxEnmN=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":8,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 8,
+			"name": "Bovada Baton Rouge",
 			"address": "7500 Independence Blvd, Baton Rouge, LA 70806, USA",
 			"five_star_rating_published": 4.8,
-			"coordinates": [30.4445235,-91.1147809],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				30.4445235,
+				-91.1147809
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-		
-		{	
-			"id":9,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 9,
+			"name": "Bovada Florida",
 			"address": "200 SW 13th Ave, Cape Coral, FL 33991, USA",
 			"five_star_rating_published": 4.4,
-			"coordinates": [30.4445235,-91.1147809],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				30.4445235,
+				-91.1147809
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":10,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 10,
+			"name": "Bovada Chandler",
 			"address": "Chandler, AZ, USA",
 			"five_star_rating_published": 4.9,
-			"coordinates": [33.2828175,-111.8686166],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				33.2828175,
+				-111.8686166
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":11,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 11,
+			"name": "Bovada Oklahoma",
 			"address": "Norman Public Schools,USA",
 			"five_star_rating_published": 5,
-			"coordinates": [35.2468209,-97.3671336],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				35.2468209,
+				-97.3671336
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":12,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 12,
+			"name": "Bovada Fort Wayne",
 			"address": "1126 Barthold St, Fort Wayne, IN 46808, USA",
 			"five_star_rating_published": 5,
-			"coordinates": [41.082613,-85.1556636],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				41.082613,
+				-85.1556636
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":13,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 13,
+			"name": "Bovada Virginia",
 			"address": "6 Anderson Cir, Newport News, VA 23606, USA",
 			"five_star_rating_published": 5,
-			"coordinates": [37.075668,-76.508615],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				37.075668,
+				-76.508615
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPauW11tMpOoTi1oZUqX56mQDBP44bg76tKCDQV=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":14,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 14,
+			"name": "Bovada Petersburg",
 			"address": "2429 Central Ave, St. Petersburg, FL 33713, USA",
 			"five_star_rating_published": 5,
-			"coordinates": [27.7712252,-82.6709976],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				27.7712252,
+				-82.6709976
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":15,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 15,
+			"name": "Bovada Little Rock",
 			"address": "1804 S Van Buren St, Little Rock, AR 72204, USA",
 			"five_star_rating_published": 3.7,
-			"coordinates": [34.723749,-92.3408856],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				34.723749,
+				-92.3408856
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":16,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 16,
+			"name": "Bovada Jackson, ",
 			"address": "1112 Blair St, Jackson, MS 39202, USA",
 			"five_star_rating_published": 3.9,
-			"coordinates": [34.7351713,-92.3367269],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				34.7351713,
+				-92.3367269
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":17,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 17,
+			"name": "Bovada Rochester",
 			"address": "Apache Mall, 1201 12th St SW Suite 425, Rochester, MN 55902, United States",
 			"five_star_rating_published": 4.7,
-			"coordinates": [32.3114164,-90.1912009],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				32.3114164,
+				-90.1912009
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":18,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 18,
+			"name": "Bovada Amarillo, ",
 			"address": "801 S Marrs St, Amarillo, TX 79104, USA",
 			"five_star_rating_published": 4.2,
-			"coordinates": [35.2003544,-101.8251924],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"coordinates": [
+				35.2003544,
+				-101.8251924
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":19,
-			"name": "Bovada Online Casino",  
+		{
+			"id": 19,
+			"name": "Bovada Cincinnati, ",
 			"address": "1366 Hopple St, Cincinnati, OH 45225, USA",
-			"five_star_rating_published":5,
-			"coordinates": [39.13634,-84.545165],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipME74gIBF8WIhLJb9-SZG3M8LwjfHEloTH9DlbK=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				39.13634,
+				-84.545165
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipME74gIBF8WIhLJb9-SZG3M8LwjfHEloTH9DlbK=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":20,
-			"name": "Bovada Online Casino Fayetteville",  
+		{
+			"id": 20,
+			"name": "Bovada North Carolina",
 			"address": "5173 Bragg Blvd, Fayetteville, NC 28303, United States",
-			"five_star_rating_published":4.5,
-			"coordinates": [35.0901635,-78.9605262],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.5,
+			"coordinates": [
+				35.0901635,
+				-78.9605262
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":21,
-			"name": "Bovada Online Casino",
+		{
+			"id": 21,
+			"name": "Bovada  South Carolina",
 			"address": "West Ashley, Charleston, SC, USA",
-			"five_star_rating_published":4.4,
-			"coordinates": [32.8210454,-79.9752415],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.4,
+			"coordinates": [
+				32.8210454,
+				-79.9752415
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-		{	
-			"id":22,
-			"name": "Bovada Online Casino Omaha",
+		{
+			"id": 22,
+			"name": "Bovada Omaha",
 			"address": "Omaha, NE 68134, United States",
-			"five_star_rating_published":4.8,
-			"coordinates": [41.2920299,-96.0862039],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.8,
+			"coordinates": [
+				41.2920299,
+				-96.0862039
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":23,
-			"name": "Bovada Online Casino Raleigh",
+		{
+			"id": 23,
+			"name": "Bovada Raleigh",
 			"address": "4700 Terry St, Raleigh, NC 27609, USA",
-			"five_star_rating_published":4.9,
-			"coordinates": [35.8441793,-78.6500919],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.9,
+			"coordinates": [
+				35.8441793,
+				-78.6500919
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipM1rkFa-Va9dcCES3ABBxBpY-q-nCSBq44D6sDK=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":24,
-			"name": "Bovada Online Casino",
+		{
+			"id": 24,
+			"name": "Bovada Des Moines",
 			"address": "2141 SE 5th St, Des Moines, IA 50315, USA",
-			"five_star_rating_published":4.1,
-			"coordinates": [41.5671299,-93.6110139],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.1,
+			"coordinates": [
+				41.5671299,
+				-93.6110139
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":25,
-			"name": "Bovada Online Casino",
+		{
+			"id": 25,
+			"name": "Bovada Montgomery",
 			"address": "110 Church St, Montgomery, AL 36104, USA",
-			"five_star_rating_published":5,
-			"coordinates": [32.3757153,-86.3145826],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNev94-iMGQSAZ5gYLezXq5ixSqlOiC6zSwvmdO=w408-h272-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				32.3757153,
+				-86.3145826
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNev94-iMGQSAZ5gYLezXq5ixSqlOiC6zSwvmdO=w408-h272-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":26,
-			"name": "Bovada Online Casino",
+		{
+			"id": 26,
+			"name": "Bovada  Indiana",
 			"address": "20 Wedeking Ave, Evansville, IN 47711, USA",
-			"five_star_rating_published":5,
-			"coordinates": [37.9968241,-87.5497269],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				37.9968241,
+				-87.5497269
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-		{	
-			"id":27,
-			"name": "Bovada Online Casino",
+		{
+			"id": 27,
+			"name": "BovadaLas Olas Boulevard,Florida",
 			"address": "515 E Las Olas Blvd, Fort Lauderdale, FL 33301, USA",
-			"five_star_rating_published":5,
-			"coordinates": [26.1202167,-80.1430949],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				26.1202167,
+				-80.1430949
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-		
-		{	
-			"id":28,
-			"name": "Bovada Online Casino",
+		{
+			"id": 28,
+			"name": "Bovada Florida",
 			"address": "Beckett Lake, Florida 33763, USA",
-			"five_star_rating_published":4.5,
-			"coordinates": [27.9923147,-82.7521979],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.5,
+			"coordinates": [
+				27.9923147,
+				-82.7521979
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNUiGuOv9Vi4KyLOx6Qgb73tMCQwWSDfGPJTXey=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":29,
-			"name": "Bovada Online Casino Chattanooga",
+		{
+			"id": 29,
+			"name": "Bovada Hamilton",
 			"address": "Chattanooga, TN, USA",
-			"five_star_rating_published":3.8,
-			"coordinates": [35.0985353,-85.2436659],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 3.8,
+			"coordinates": [
+				35.0985353,
+				-85.2436659
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":30,
-			"name": "Bovada Online Casino",
+		{
+			"id": 30,
+			"name": "Bovada Washington",
 			"address": "S Washington Square, Lansing, MI 48933, USA",
-			"five_star_rating_published":4.3,
-			"coordinates": [42.7328518,-84.5575679],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMejTctql90_Pw8gYvyFRvmMNmg2hS0w_caY5uj=w480-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.3,
+			"coordinates": [
+				42.7328518,
+				-84.5575679
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMejTctql90_Pw8gYvyFRvmMNmg2hS0w_caY5uj=w480-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":31,
-			"name": "Bovada Online Casino",
+		{
+			"id": 31,
+			"name": "Bovada East Boston",
 			"address": "54 Breed St, East Boston, MA 02128, United States",
-			"five_star_rating_published":4,
-			"coordinates": [42.3890424,-71.0110735],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMejTctql90_Pw8gYvyFRvmMNmg2hS0w_caY5uj=w480-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4,
+			"coordinates": [
+				42.3890424,
+				-71.0110735
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMejTctql90_Pw8gYvyFRvmMNmg2hS0w_caY5uj=w480-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":32,
-			"name": "Bovada Online Casino Knoxville",
+		{
+			"id": 32,
+			"name": "Bovada Tennessee",
 			"address": "Min Kao Electrical Engineering and Computer Science Bldg, 1520 Middle Dr, Knoxville, TN 37996, USA",
-			"five_star_rating_published":4.2,
-			"coordinates": [35.9587292,-83.9298509],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.2,
+			"coordinates": [
+				35.9587292,
+				-83.9298509
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":33,
-			"name": "Bovada Online Casino Scottsdale",
+		{
+			"id": 33,
+			"name": "Bovada Arizona",
 			"address": "20712 N 103RD Pl, Scottsdale, AZ 85255, USA",
-			"five_star_rating_published":4.8,
-			"coordinates": [33.6743394,-111.8633469],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.8,
+			"coordinates": [
+				33.6743394,
+				-111.8633469
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":34,
-			"name": "Bovada Online Casino",
+		{
+			"id": 34,
+			"name": "Bovada Florida",
 			"address": "3402 Griffin Rd, Davie, FL 33312, United States",
-			"five_star_rating_published":5,
-			"coordinates": [26.0619753,-80.1943842],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNTRiTlDmS39A9N0E6Z-KVFMpkNUG03jFTaFtZE=w480-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				26.0619753,
+				-80.1943842
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNTRiTlDmS39A9N0E6Z-KVFMpkNUG03jFTaFtZE=w480-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":35,
+		{
+			"id": 35,
 			"name": "Bovada Online Casino",
 			"address": "1507 Gracewood Dr, Greensboro, NC 27408, USA",
-			"five_star_rating_published":4,
-			"coordinates": [36.1003952,-79.8381589],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4,
+			"coordinates": [
+				36.1003952,
+				-79.8381589
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMf_GTDLzqZ-O2PbpE6EUvukhSU72UINOQNsI-E=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":36,
-			"name": "Bovada Online Casino",
+		{
+			"id": 36,
+			"name": "Bovada North Carolina",
 			"address": "Santa Fe, NM 87507, USA",
-			"five_star_rating_published":5,
-			"coordinates": [35.6869663,-105.9921479],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				35.6869663,
+				-105.9921479
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":37,
-			"name": "Bovada Online Casino",
+		{
+			"id": 37,
+			"name": "Bovada Lucie",
 			"address": "1661 SW Bayshore Blvd, Port St. Lucie, FL 34984, USA",
-			"five_star_rating_published":5,
-			"coordinates": [27.2913397,-80.3691729],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				27.2913397,
+				-80.3691729
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":38,
-			"name": "Bovada Online Casino",
+		{
+			"id": 38,
+			"name": "Bovada Mesa",
 			"address": "Mesa, AZ 85202, United States",
-			"five_star_rating_published":5,
-			"coordinates": [33.3946172,-111.8788434],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				33.3946172,
+				-111.8788434
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":39,
-			"name": "Bovada Online Casino",
+		{
+			"id": 39,
+			"name": "Bovada Ohio",
 			"address": "Sycamore Dr, Jeffersonville, IN 47130, United States",
-			"five_star_rating_published":4.7,
-			"coordinates": [38.2937805,-85.7489216],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.7,
+			"coordinates": [
+				38.2937805,
+				-85.7489216
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMmNA97O3rGxlpD9nKFzGOqt1-XaELRmqX0rwkL=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":39,
-			"name": "Bovada Online Casino Billings",
+		{
+			"id": 39,
+			"name": "Bovada Montana",
 			"address": "1203 19th St W, Billings, MT 59102, USA",
-			"five_star_rating_published":4.6,
-			"coordinates": [45.7820996,-108.5688919],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.6,
+			"coordinates": [
+				45.7820996,
+				-108.5688919
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":40,
-			"name": "Bovada Online Casino",
+		{
+			"id": 40,
+			"name": "Bovada Durham",
 			"address": "808 Lee St, Durham, NC 27701, USA",
-			"five_star_rating_published":5,
-			"coordinates": [36.0017952,-78.8898569],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				36.0017952,
+				-78.8898569
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":41,
-			"name": "Bovada Online Casino",
+		{
+			"id": 41,
+			"name": "Bovada Abilene",
 			"address": "2834 Orange St, Abilene, TX 79601, USA",
-			"five_star_rating_published":3.8,
-			"coordinates": [32.4844234,-99.7410729],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 3.8,
+			"coordinates": [
+				32.4844234,
+				-99.7410729
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":42,
-			"name": "Bovada Online Casino",
+		{
+			"id": 42,
+			"name": "Bovada Sioux Falls",
 			"address": "220-206 E 6th St, Sioux Falls, SD 57104, USA",
-			"five_star_rating_published":4,
-			"coordinates": [43.5512358,-96.7284599],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipOP83Ub1wYvc-u7tOvJw7vHWyzxF33BtX9wReW6=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4,
+			"coordinates": [
+				43.5512358,
+				-96.7284599
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOP83Ub1wYvc-u7tOvJw7vHWyzxF33BtX9wReW6=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":43,
-			"name": "Bovada Online Casino",
+		{
+			"id": 43,
+			"name": "Bovada California",
 			"address": "3500 N Broadway, Los Angeles, CA 90031, United States",
-			"five_star_rating_published":4.1,
-			"coordinates": [34.0736371,-118.2085335],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipOP83Ub1wYvc-u7tOvJw7vHWyzxF33BtX9wReW6=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.1,
+			"coordinates": [
+				34.0736371,
+				-118.2085335
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOP83Ub1wYvc-u7tOvJw7vHWyzxF33BtX9wReW6=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":44,
-			"name": "Bovada Online Casino",
+		{
+			"id": 44,
+			"name": "Bovada Kansas City,Missouri",
 			"address": "1723 Cherry St, Kansas City, MO 64108, USA",
-			"five_star_rating_published":4.9,
-			"coordinates": [39.0921451,-94.5809329],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.9,
+			"coordinates": [
+				39.0921451,
+				-94.5809329
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":45,
-			"name": "Bovada Online Casino",
+		{
+			"id": 45,
+			"name": "Bovada North Carolina",
 			"address": "5721 South Blvd, Charlotte, NC 28217, United States",
-			"five_star_rating_published":5,
-			"coordinates": [35.1576451,-80.8805493],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				35.1576451,
+				-80.8805493
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO5z3CL2x67KsUCWqXx1Ko1lxqllsRvnrMkDHal=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":46,
-			"name": "Bovada Online Casino",
+		{
+			"id": 46,
+			"name": "Bovada Wyoming",
 			"address": "Laramie County School District 1, WY, USA",
-			"five_star_rating_published":1.5,
-			"coordinates": [41.1477219,-104.7723059],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipOCPmQ77c6PqjJRsQtJDpzwSrz_0UZcz7Xrh1Zj=w733-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 1.5,
+			"coordinates": [
+				41.1477219,
+				-104.7723059
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOCPmQ77c6PqjJRsQtJDpzwSrz_0UZcz7Xrh1Zj=w733-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":47,
-			"name": "Bovada Online Casino",
+		{
+			"id": 47,
+			"name": "Bovada Tennessee",
 			"address": "Nashville, TN 37208, United States",
-			"five_star_rating_published":2,
-			"coordinates": [36.1867322,-86.7900359],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNuMspTJ65BlXIYjWVRBk6ARlTYN1zg6Dt0f8Yk=w408-h272-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 2,
+			"coordinates": [
+				36.1867322,
+				-86.7900359
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNuMspTJ65BlXIYjWVRBk6ARlTYN1zg6Dt0f8Yk=w408-h272-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		
-		{	
-			"id":48,
-			"name": "Bovada Online Casino Houston",
+		{
+			"id": 48,
+			"name": "Bovada eastern Texas",
 			"address": "228 W 33rd St, Houston, TX 77018, USA",
-			"five_star_rating_published":3,
-			"coordinates": [29.8167233,-95.4263346],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipOO620a4E2jwDpPP41u6VIFVlAtqWag-6dwWkNM=w408-h261-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 3,
+			"coordinates": [
+				29.8167233,
+				-95.4263346
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOO620a4E2jwDpPP41u6VIFVlAtqWag-6dwWkNM=w408-h261-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-		{	
-			"id":49,
-			"name": "Bovada Casino & Sportsbook Phoenix",
+		{
+			"id": 49,
+			"name": "Bovada central Arizona",
 			"address": "2902 W Sweetwater Ave, Phoenix, AZ 85029, USA",
-			"five_star_rating_published":4.5,
-			"coordinates": [33.6054594,-112.1298819],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNyN1SRzoBi7HWt_UQNeBW5RWmChIjq4AfoxOjR=w411-h240-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 4.5,
+			"coordinates": [
+				33.6054594,
+				-112.1298819
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNyN1SRzoBi7HWt_UQNeBW5RWmChIjq4AfoxOjR=w411-h240-k-no",
+			"status": "Open 24 hrs"
 		},
-	
-	
-		{	
-			"id":50,
-			"name": "Bovada Online Casino",
+		{
+			"id": 50,
+			"name": "Bovada northeast Ohio",
 			"address": "Cleveland, OH 44114, United States",
-			"five_star_rating_published":5,
-			"coordinates": [41.5015138,-81.7157961],
-			"imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPbHrzRM9DJ1KLhFp88s2wTzDB1j6LqM2Lr51pi=w408-h274-k-no",
-			"status":"Open 24 hrs"
+			"five_star_rating_published": 5,
+			"coordinates": [
+				41.5015138,
+				-81.7157961
+			],
+			"imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPbHrzRM9DJ1KLhFp88s2wTzDB1j6LqM2Lr51pi=w408-h274-k-no",
+			"status": "Open 24 hrs"
 		}
 	]
 }
